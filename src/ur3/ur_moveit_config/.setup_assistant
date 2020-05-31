@@ -6,6 +6,6 @@ moveit_setup_assistant_config:
   SRDF:
     relative_path: config/ur3.srdf
   CONFIG:
-    author_name: df
-    author_email: df@gmail.com
-    generated_timestamp: 1590897852
+    author_name: Eric Wen
+    author_email: z19040042@s.upc.edu.cn
+    generated_timestamp: 1590914929
