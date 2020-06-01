@@ -2,7 +2,7 @@
 
 message(STATUS "robotiq_ft_sensor: 1 messages, 1 services")
 
-set(MSG_I_FLAGS "-Irobotiq_ft_sensor:/home/dell/ml_ws/src/robotiq/robotiq_ft_sensor/msg;-Istd_msgs:/opt/ros/kinetic/share/std_msgs/cmake/../msg")
+set(MSG_I_FLAGS "-Irobotiq_ft_sensor:/home/dell/ml_ws/src/robotiq/robotiq_ft_sensor/msg;-Istd_msgs:/opt/ros/melodic/share/std_msgs/cmake/../msg")
 
 # Find all generators
 find_package(gencpp REQUIRED)

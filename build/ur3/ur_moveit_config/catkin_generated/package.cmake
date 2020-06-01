@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "ur_moveit_config")
 set(ur_moveit_config_VERSION "0.3.0")
-set(ur_moveit_config_MAINTAINER "sd <sd@gmail.com>")
+set(ur_moveit_config_MAINTAINER "Eric Wen <z19040042@s.upc.edu.cn>")
 set(ur_moveit_config_PACKAGE_FORMAT "1")
 set(ur_moveit_config_BUILD_DEPENDS "ur_description")
 set(ur_moveit_config_BUILD_EXPORT_DEPENDS "moveit_ros_move_group" "moveit_fake_controller_manager" "moveit_kinematics" "moveit_planners_ompl" "moveit_ros_visualization" "moveit_setup_assistant" "joint_state_publisher" "robot_state_publisher" "xacro" "ur_description")
